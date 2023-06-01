@@ -6,7 +6,7 @@ Web Based Health Monitoring Using rPPG: rPPG 기술을 활용한 웹 기반 건�
 
 ## __Demo__
 
-<p align="center"><img width='70%' src="./img/Demonstration.png"/></p>
+<p align="center"><img width='100%' src="./img/Demonstration.png"/></p>
 
 ## __Usage__
 
