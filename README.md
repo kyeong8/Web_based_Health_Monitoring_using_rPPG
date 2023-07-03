@@ -76,3 +76,6 @@ ubuntu@rppg:~/projects/rppg$ alembic upgrade head
 ```python
 uvicorn main:app --reload --host=0.0.0.0
 ```
+
+해당 프로젝트의 모든 rppg 관련 코드는 [MTTS-CAN](https://github.com/xliucs/MTTS-CAN)을 수정하여 완성하였음.     
+fastapi 관련 문서는 [점프 투 FastAPI](https://wikidocs.net/book/8531)를 참고하였음.
